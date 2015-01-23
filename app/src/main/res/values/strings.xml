@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageWithText</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="sort_method_list">
+        <item>By Tag</item>
+        <item>By Time</item>
+        <item>By Place</item>
+    </string-array>
+
+</resources>
